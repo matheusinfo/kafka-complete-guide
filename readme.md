@@ -1,6 +1,6 @@
-# **Kafka complete**
+# **Kafka complete Guide**
 
-## [**full link course**](https://www.udemy.com/course/apache_kafka/)
+## [**Course**](https://www.udemy.com/course/apache_kafka/)
 
 Repository to store the practical contents of Kafka's course held on Udemy.
 - Start producer
